@@ -1,0 +1,3024 @@
+{
+    "statuses": [
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Tue Jul 08 00:28:51 +0000 2014",
+            "id": 486305878363357200,
+            "id_str": "486305878363357185",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1513774284,
+                "id_str": "1513774284",
+                "name": "Regina Rizzana",
+                "screen_name": "ReginaRizzana",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 55,
+                "friends_count": 14,
+                "listed_count": 2,
+                "created_at": "Thu Jun 13 16:07:37 +0000 2013",
+                "favourites_count": 28,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 14989,
+                "lang": "pt",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Mon Jul 07 21:16:17 +0000 2014",
+            "id": 486257419895336960,
+            "id_str": "486257419895336961",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 249615701,
+                "id_str": "249615701",
+                "name": "Alexandre",
+                "screen_name": "TioAledoSamba",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 145,
+                "friends_count": 46,
+                "listed_count": 0,
+                "created_at": "Wed Feb 09 12:26:37 +0000 2011",
+                "favourites_count": 1073,
+                "utc_offset": -10800,
+                "time_zone": "Brasilia",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 18390,
+                "lang": "pt",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/234858974/Pandeiro.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/234858974/Pandeiro.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2031018210/DSC03671b_normal.JPG",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2031018210/DSC03671b_normal.JPG",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "300202",
+                "profile_text_color": "FFFFFF",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Mon Jul 07 21:14:07 +0000 2014",
+            "id": 486256873255874560,
+            "id_str": "486256873255874561",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://www.blaccspot.com\" rel=\"nofollow\">JavaScript Digest</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2542640070,
+                "id_str": "2542640070",
+                "name": "JavaScript Digest",
+                "screen_name": "js_digest",
+                "location": "Atlanta, Ga",
+                "description": "All things JavaScript brought to you by the team @blaccspotmedia.",
+                "url": "http://t.co/BA7z8gqs5p",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/BA7z8gqs5p",
+                                "expanded_url": "http://www.blaccspot.com",
+                                "display_url": "blaccspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1740,
+                "friends_count": 1193,
+                "listed_count": 68,
+                "created_at": "Tue Jun 03 03:03:38 +0000 2014",
+                "favourites_count": 0,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 66828,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/473662378869936129/2MgVAmMR_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/473662378869936129/2MgVAmMR_normal.png",
+                "profile_link_color": "3686A3",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Mon Jul 07 21:06:51 +0000 2014",
+            "id": 486255046330687500,
+            "id_str": "486255046330687488",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2570819040,
+                "id_str": "2570819040",
+                "name": "JackPitcher",
+                "screen_name": "Jack_Pitcher22",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 20,
+                "listed_count": 0,
+                "created_at": "Mon Jun 16 12:12:25 +0000 2014",
+                "favourites_count": 12,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Mon Jul 07 10:58:06 +0000 2014",
+            "id": 486101849251278850,
+            "id_str": "486101849251278848",
+            "text": "Test #foundersandcoders http://t.co/0kmTTiVVVV",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2570823252,
+                "id_str": "2570823252",
+                "name": "Piri Amalan",
+                "screen_name": "PiriAmalan",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 12,
+                "listed_count": 0,
+                "created_at": "Mon Jun 16 12:14:26 +0000 2014",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/485857446137569280/33ZQTeAk_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/485857446137569280/33ZQTeAk_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            5,
+                            23
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 486101825205317600,
+                        "id_str": "486101825205317632",
+                        "indices": [
+                            24,
+                            46
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Br77CNgIMAAdARf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Br77CNgIMAAdARf.jpg",
+                        "url": "http://t.co/0kmTTiVVVV",
+                        "display_url": "pic.twitter.com/0kmTTiVVVV",
+                        "expanded_url": "http://twitter.com/PiriAmalan/status/486101849251278848/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 600,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 255,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jul 05 23:06:27 +0000 2014",
+            "id": 485560365234020350,
+            "id_str": "485560365234020352",
+            "text": "Weekend homework on node.js - courtesy of #FoundersAndCoders http://t.co/HwWyesa71u",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 778872560,
+                "id_str": "778872560",
+                "name": "Nafisa ",
+                "screen_name": "NafisaZay",
+                "location": "",
+                "description": "Head in the clouds, feet on the ground.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 84,
+                "friends_count": 327,
+                "listed_count": 0,
+                "created_at": "Fri Aug 24 20:01:18 +0000 2012",
+                "favourites_count": 70,
+                "utc_offset": 0,
+                "time_zone": "Casablanca",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 74,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/478511033284194304/hTyhpiGu_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/478511033284194304/hTyhpiGu_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/778872560/1358086019",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FoundersAndCoders",
+                        "indices": [
+                            42,
+                            60
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 485560364999139300,
+                        "id_str": "485560364999139329",
+                        "indices": [
+                            61,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Br0OlFDIYAELD97.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Br0OlFDIYAELD97.jpg",
+                        "url": "http://t.co/HwWyesa71u",
+                        "display_url": "pic.twitter.com/HwWyesa71u",
+                        "expanded_url": "http://twitter.com/NafisaZay/status/485560365234020352/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 600,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 255,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jul 05 17:12:09 +0000 2014",
+            "id": 485471204690513900,
+            "id_str": "485471204690513920",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 51758198,
+                "id_str": "51758198",
+                "name": "Babu Subramanian",
+                "screen_name": "babusubramanian",
+                "location": "Bangalore",
+                "description": "Technology buff\r\nFilm buff",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 661,
+                "friends_count": 1409,
+                "listed_count": 6,
+                "created_at": "Sun Jun 28 15:41:08 +0000 2009",
+                "favourites_count": 125,
+                "utc_offset": 19800,
+                "time_zone": "New Delhi",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3067,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/137703519/DSCN0779.JPG",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/137703519/DSCN0779.JPG",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1106904399/DSCN0745_normal.JPG",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106904399/DSCN0745_normal.JPG",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jul 05 12:08:47 +0000 2014",
+            "id": 485394858153377800,
+            "id_str": "485394858153377792",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 241238860,
+                "id_str": "241238860",
+                "name": "Rob Colbert",
+                "screen_name": "robcolbert",
+                "location": "Pittsburgh, PA",
+                "description": "Hell yes these are my own thoughts. Where the hell else would they be coming from? And, that...my friends...is the correct question ;)",
+                "url": "http://t.co/xjOC8OfrUx",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xjOC8OfrUx",
+                                "expanded_url": "http://robcolbert.com",
+                                "display_url": "robcolbert.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 253,
+                "friends_count": 457,
+                "listed_count": 6,
+                "created_at": "Fri Jan 21 19:59:55 +0000 2011",
+                "favourites_count": 339,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3773,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "DEDEDE",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/680393786/1141c9d3d3e81897c48fe3be69980e48.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/680393786/1141c9d3d3e81897c48fe3be69980e48.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000856580994/-2ldEcQv_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000856580994/-2ldEcQv_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/241238860/1377208858",
+                "profile_link_color": "632522",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F55D11",
+                "profile_text_color": "FF2A00",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jul 05 11:49:57 +0000 2014",
+            "id": 485390120829583360,
+            "id_str": "485390120829583360",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"https://github.com/FireZenk\" rel=\"nofollow\">nodejs_info_bot</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2177702702,
+                "id_str": "2177702702",
+                "name": "Node JS bot",
+                "screen_name": "nodejs_bot",
+                "location": "",
+                "description": "Only interesting Node JS info & links",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1411,
+                "friends_count": 1994,
+                "listed_count": 44,
+                "created_at": "Wed Nov 06 09:05:48 +0000 2013",
+                "favourites_count": 9587,
+                "utc_offset": 7200,
+                "time_zone": "Amsterdam",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 19488,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000701894632/ed0aa3f447b2340adfc02285fd0d6b82_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000701894632/ed0aa3f447b2340adfc02285fd0d6b82_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jul 05 11:49:04 +0000 2014",
+            "id": 485389896937259000,
+            "id_str": "485389896937259009",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://www.blaccspot.com\" rel=\"nofollow\">JavaScript Digest</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2542640070,
+                "id_str": "2542640070",
+                "name": "JavaScript Digest",
+                "screen_name": "js_digest",
+                "location": "Atlanta, Ga",
+                "description": "All things JavaScript brought to you by the team @blaccspotmedia.",
+                "url": "http://t.co/BA7z8gqs5p",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/BA7z8gqs5p",
+                                "expanded_url": "http://www.blaccspot.com",
+                                "display_url": "blaccspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1740,
+                "friends_count": 1193,
+                "listed_count": 68,
+                "created_at": "Tue Jun 03 03:03:38 +0000 2014",
+                "favourites_count": 0,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 66828,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/473662378869936129/2MgVAmMR_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/473662378869936129/2MgVAmMR_normal.png",
+                "profile_link_color": "3686A3",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+            "id": 485389300021071900,
+            "id_str": "485389300021071872",
+            "text": "RT @olivia_neale: https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://ameanmagazine.blogspot.com\" rel=\"nofollow\">A Mean Magazine Bot</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2585287004,
+                "id_str": "2585287004",
+                "name": "Mean Magazine Bot",
+                "screen_name": "ameanmbot",
+                "location": "",
+                "description": "Non curated list of relevant tweets about the MEAN stack. For a curated one visit @ameanmagazine",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 123,
+                "friends_count": 1,
+                "listed_count": 5,
+                "created_at": "Tue Jun 24 07:14:01 +0000 2014",
+                "favourites_count": 20,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8444,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/481334978161029120/iu3zZFEk_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/481334978161029120/iu3zZFEk_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2585287004/1403594236",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+                "id": 485389297038946300,
+                "id_str": "485389297038946304",
+                "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 591827249,
+                    "id_str": "591827249",
+                    "name": "Olivia Neale",
+                    "screen_name": "olivia_neale",
+                    "location": "",
+                    "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 33,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Sun May 27 13:32:45 +0000 2012",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 100,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 9,
+                "favorite_count": 9,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                59,
+                                77
+                            ]
+                        },
+                        {
+                            "text": "nodejs",
+                            "indices": [
+                                78,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "getmycodeon",
+                            "indices": [
+                                86,
+                                98
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/toG3wQROsD",
+                            "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                            "display_url": "youtube.com/watch?v=zgk1ek…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            77,
+                            95
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            104,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            18,
+                            41
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "olivia_neale",
+                        "name": "Olivia Neale",
+                        "id": 591827249,
+                        "id_str": "591827249",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Sat Jul 05 11:46:41 +0000 2014",
+            "id": 485389297038946300,
+            "id_str": "485389297038946304",
+            "text": "https://t.co/toG3wQROsD quite possibly my fave coding song #foundersandcoders #nodejs #getmycodeon",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 591827249,
+                "id_str": "591827249",
+                "name": "Olivia Neale",
+                "screen_name": "olivia_neale",
+                "location": "",
+                "description": "Student at the University of Durham studying a Masters in Biology and Chemistry",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 33,
+                "friends_count": 45,
+                "listed_count": 0,
+                "created_at": "Sun May 27 13:32:45 +0000 2012",
+                "favourites_count": 31,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 100,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254571864/530133_10151455569660231_606305230_23193589_416710193_n_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 9,
+            "favorite_count": 9,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            59,
+                            77
+                        ]
+                    },
+                    {
+                        "text": "nodejs",
+                        "indices": [
+                            78,
+                            85
+                        ]
+                    },
+                    {
+                        "text": "getmycodeon",
+                        "indices": [
+                            86,
+                            98
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/toG3wQROsD",
+                        "expanded_url": "https://www.youtube.com/watch?v=zgk1ekeq_6g",
+                        "display_url": "youtube.com/watch?v=zgk1ek…",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Jul 04 16:40:24 +0000 2014",
+            "id": 485100825367552000,
+            "id_str": "485100825367552002",
+            "text": "Looking good #foundersandcoders http://t.co/KgCKOHiMXl",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2570819040,
+                "id_str": "2570819040",
+                "name": "JackPitcher",
+                "screen_name": "Jack_Pitcher22",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 20,
+                "listed_count": 0,
+                "created_at": "Mon Jun 16 12:12:25 +0000 2014",
+                "favourites_count": 12,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            13,
+                            31
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [],
+                "media": [
+                    {
+                        "id": 485100824217915400,
+                        "id_str": "485100824217915392",
+                        "indices": [
+                            32,
+                            54
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/BrtsoSPCEAATYzw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/BrtsoSPCEAATYzw.jpg",
+                        "url": "http://t.co/KgCKOHiMXl",
+                        "display_url": "pic.twitter.com/KgCKOHiMXl",
+                        "expanded_url": "http://twitter.com/Jack_Pitcher22/status/485100825367552002/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 768,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Jul 04 15:50:51 +0000 2014",
+            "id": 485088355986993150,
+            "id_str": "485088355986993152",
+            "text": "RT @ettore90: Enjoying the evening @CamdenWatchCo with #foundersandcoders mates! Great evening! All thanks to @CMDNCollective http://t.co/E…",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2570819040,
+                "id_str": "2570819040",
+                "name": "JackPitcher",
+                "screen_name": "Jack_Pitcher22",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 20,
+                "listed_count": 0,
+                "created_at": "Mon Jun 16 12:12:25 +0000 2014",
+                "favourites_count": 12,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Thu Jul 03 21:32:25 +0000 2014",
+                "id": 484811928838340600,
+                "id_str": "484811928838340609",
+                "text": "Enjoying the evening @CamdenWatchCo with #foundersandcoders mates! Great evening! All thanks to @CMDNCollective http://t.co/ERpR7AKtoN",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 106597865,
+                    "id_str": "106597865",
+                    "name": "Besart Shyti",
+                    "screen_name": "ettore90",
+                    "location": "",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 9,
+                    "friends_count": 24,
+                    "listed_count": 0,
+                    "created_at": "Wed Jan 20 02:18:20 +0000 2010",
+                    "favourites_count": 12,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 11,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/3203609828/6b85b83a1fa0e7f5b0cec493ba191ea5_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3203609828/6b85b83a1fa0e7f5b0cec493ba191ea5_normal.jpeg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 2,
+                "favorite_count": 5,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "foundersandcoders",
+                            "indices": [
+                                41,
+                                59
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "CamdenWatchCo",
+                            "name": "Camden Watch Company",
+                            "id": 1374268682,
+                            "id_str": "1374268682",
+                            "indices": [
+                                21,
+                                35
+                            ]
+                        },
+                        {
+                            "screen_name": "CMDNCollective",
+                            "name": "Collective",
+                            "id": 1001552611,
+                            "id_str": "1001552611",
+                            "indices": [
+                                96,
+                                111
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 484811925771927550,
+                            "id_str": "484811925771927552",
+                            "indices": [
+                                112,
+                                134
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/Brpl4LqCQAA78pa.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/Brpl4LqCQAA78pa.jpg",
+                            "url": "http://t.co/ERpR7AKtoN",
+                            "display_url": "pic.twitter.com/ERpR7AKtoN",
+                            "expanded_url": "http://twitter.com/ettore90/status/484811928838340609/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 600,
+                                    "h": 450,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 768,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 340,
+                                    "h": 255,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "foundersandcoders",
+                        "indices": [
+                            55,
+                            73
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ettore90",
+                        "name": "Besart Shyti",
+                        "id": 106597865,
+                        "id_str": "106597865",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "CamdenWatchCo",
+                        "name": "Camden Watch Company",
+                        "id": 1374268682,
+                        "id_str": "1374268682",
+                        "indices": [
+                            35,
+                            49
+                        ]
+                    },
+                    {
+                        "screen_name": "CMDNCollective",
+                        "name": "Collective",
+                        "id": 1001552611,
+                        "id_str": "1001552611",
+                        "indices": [
+                            110,
+                            125
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 484811925771927550,
+                        "id_str": "484811925771927552",
+                        "indices": [
+                            139,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Brpl4LqCQAA78pa.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Brpl4LqCQAA78pa.jpg",
+                        "url": "http://t.co/ERpR7AKtoN",
+                        "display_url": "pic.twitter.com/ERpR7AKtoN",
+                        "expanded_url": "http://twitter.com/ettore90/status/484811928838340609/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 600,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 255,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 484811928838340600,
+                        "source_status_id_str": "484811928838340609"
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Jul 04 14:05:34 +0000 2014",
+            "id": 485061860048502800,
+            "id_str": "485061860048502785",
+            "text": "End of week 3 on the #FoundersAndCoders course - been a hard week of @nodeschool :/ #GetMyCodeOn",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 778872560,
+                "id_str": "778872560",
+                "name": "Nafisa ",
+                "screen_name": "NafisaZay",
+                "location": "",
+                "description": "Head in the clouds, feet on the ground.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 84,
+                "friends_count": 327,
+                "listed_count": 0,
+                "created_at": "Fri Aug 24 20:01:18 +0000 2012",
+                "favourites_count": 70,
+                "utc_offset": 0,
+                "time_zone": "Casablanca",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 74,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/478511033284194304/hTyhpiGu_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/478511033284194304/hTyhpiGu_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/778872560/1358086019",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FoundersAndCoders",
+                        "indices": [
+                            21,
+                            39
+                        ]
+                    },
+                    {
+                        "text": "GetMyCodeOn",
+                        "indices": [
+                            84,
+                            96
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nodeschool",
+                        "name": "NodeSchool",
+                        "id": 2194544334,
+                        "id_str": "2194544334",
+                        "indices": [
+                            69,
+                            80
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.019,
+        "max_id": 486305878363357200,
+        "max_id_str": "486305878363357185",
+        "next_results": "?max_id=485061860048502784&q=foundersandcoders&include_entities=1",
+        "query": "foundersandcoders",
+        "refresh_url": "?since_id=486305878363357185&q=foundersandcoders&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
